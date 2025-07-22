@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": {
       "en": "Calendar",
       "vi": "Calendar",
@@ -48,6 +49,7 @@
     ]
   },
   {
+    "id": 2,
     "name": {
       "en": "Silly Smiles",
       "vi": "Nụ cười ngộ nghĩnh",
@@ -65,8 +67,27 @@
     ]
   },
   {
+    "id": 3,
     "name": {
       "en": "Silly Smiles",
+      "vi": "Nụ cười ngộ nghĩnh",
+      "es": "Sonrisas tontas",
+      "de": "Alberne Lächeln",
+      "ar": "ابتسامات سخيفة",
+      "hi": "मूर्ख मुस्कान",
+      "pt": "Sorrisos bobos"
+    },
+    "type": "flat",
+    "images": [
+      "game/game1.jpg",
+      "game/game2.jpg",
+      "game/game3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Thoan Phạm",
       "vi": "Nụ cười ngộ nghĩnh",
       "es": "Sonrisas tontas",
       "de": "Alberne Lächeln",
